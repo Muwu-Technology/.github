@@ -1,12 +1,8 @@
-## Hi there 👋
+## About
+我们站在逻辑与直觉的边界，用系统诠释思想的重量，以代码承载语言的温度。技术在这里既保持精确的骨架，又生长出血肉的灵动——它懂得何时该沉默，也明白如何恰当地表达；既能严谨如数学推演，又能自然如呼吸起伏。我们构建的从来不是终极答案，而是持续生长的对话。
 
-<!--
+## Product
+技术之美，源于对秩序与自由的共鸣。我们以简素为底蕴，精微为笔触，致力于在纷繁中雕琢静谧，于流动中寻觅恒常，构筑人与万物间细腻而深远的对话。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact
+敬请通过电子邮件与我们沟通。
